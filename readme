@@ -1,0 +1,7 @@
+abriamos a pasta onde queremos o projeto
+terminal git clone url do projeto
+cd nome da pasta
+npm install para baixar todas dependencias do projeto
+npm start para rodar o react 
+react não improta icones necessario biblioteca react-icons 
+npm install react-icons --save
