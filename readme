@@ -13,3 +13,6 @@ react usa virtual dom para que ele consiga ser performatico ele coloca ponto cha
 alteradas por isso ele é declarativo e não reativo
 react quando modificado comparada com versão nova e verifica oq precisa ser mudado então ele re-rederiza com a informação real
 ou seja o react verifica apenas onde precisa realizar mudancas e so modifica e renderiza as alterações não precisar varer o codigo completo sendo mais rapido e performatico
+
+criador de ids = npm i uuid
+usamos o criador de ids para dar valur unico a cada card pois estavamos usando times.nome caso futuramente tiver 2 com msm nome iria alterar ambos
